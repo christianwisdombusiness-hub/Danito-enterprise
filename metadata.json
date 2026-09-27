@@ -1,0 +1,7 @@
+{
+  "name": "Danito's Enterprise",
+  "description": "Enterprise loan portfolio management, loan origination, amortization schedules, borrower CRM, risk underwriting, and repayment tracking system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
